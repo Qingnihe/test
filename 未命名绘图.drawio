@@ -2031,10 +2031,28 @@
           <mxGeometry height="25" width="46" x="944" y="5037.5" as="geometry" />
         </mxCell>
         <mxCell id="IrObPfMQgYoRq0LckQgD-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Trading&amp;nbsp;&lt;br&gt;Environment" vertex="1">
-          <mxGeometry height="80" width="430" x="674" y="5170" as="geometry" />
+          <mxGeometry height="80" width="430" x="674" y="5200" as="geometry" />
         </mxCell>
         <mxCell id="IrObPfMQgYoRq0LckQgD-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="标准PPO" vertex="1">
           <mxGeometry height="30" width="60" x="866.25" y="4940" as="geometry" />
+        </mxCell>
+        <mxCell id="IrObPfMQgYoRq0LckQgD-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="986.5" y="5080" as="sourcePoint" />
+            <mxPoint x="990" y="5198" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IrObPfMQgYoRq0LckQgD-20" edge="1" parent="1" source="IrObPfMQgYoRq0LckQgD-10" style="endArrow=classic;html=1;rounded=0;exitX=0.598;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="5080" as="sourcePoint" />
+            <mxPoint x="930" y="5150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IrObPfMQgYoRq0LckQgD-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Action" vertex="1">
+          <mxGeometry height="40" width="54.25" x="1005.75" y="5090" as="geometry" />
+        </mxCell>
+        <mxCell id="IrObPfMQgYoRq0LckQgD-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reward" vertex="1">
+          <mxGeometry height="30" width="83" x="828" y="5160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

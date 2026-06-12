@@ -2076,13 +2076,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dTUtc9FoJ3XEGHcHJVtg-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=default;labelBackgroundColor=default;" value="(a) Qmax Calculation" vertex="1">
-          <mxGeometry height="30" width="180" x="659.75" y="4720" as="geometry" />
+          <mxGeometry height="30" width="180" x="659" y="4720" as="geometry" />
         </mxCell>
         <mxCell id="dTUtc9FoJ3XEGHcHJVtg-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=default;labelBackgroundColor=default;" value="(b) Order Execution" vertex="1">
-          <mxGeometry height="30" width="180" x="936" y="4720" as="geometry" />
+          <mxGeometry height="30" width="180" x="937" y="4720" as="geometry" />
         </mxCell>
         <mxCell id="dTUtc9FoJ3XEGHcHJVtg-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=default;labelBackgroundColor=default;" value="(c) Performance Evaluation" vertex="1">
-          <mxGeometry height="30" width="225" x="1192.5" y="4720" as="geometry" />
+          <mxGeometry height="30" width="225" x="1195" y="4720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

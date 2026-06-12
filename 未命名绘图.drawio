@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="zqXyUdPLtBW9g-aKA2vm">
-    <mxGraphModel dx="1076" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1460" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1787,7 +1787,7 @@
         <mxCell id="AKEyw6UTFrmydVTqw-TH-484" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FCFAFD;strokeColor=#6C8EBF;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;VWPI&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Volume-Weigted Praticipation Intensity&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="1200" y="4600" as="geometry" />
         </mxCell>
-        <mxCell id="AKEyw6UTFrmydVTqw-TH-485" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FCFAFD;strokeColor=#6C8EBF;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Ratio&lt;/font&gt;" vertex="1">
+        <mxCell id="AKEyw6UTFrmydVTqw-TH-485" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fillColor=#FCFAFD;strokeColor=#6C8EBF;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Limit Order Ratio&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="1200" y="4510" as="geometry" />
         </mxCell>
         <mxCell id="AKEyw6UTFrmydVTqw-TH-487" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#E8F1F8;glass=0;absoluteArcSize=1;" value="" vertex="1">
@@ -2074,6 +2074,15 @@
             <mxPoint x="1145" y="4630" as="sourcePoint" />
             <mxPoint x="1200" y="4540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dTUtc9FoJ3XEGHcHJVtg-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=default;labelBackgroundColor=default;" value="(a) Qmax Calculation" vertex="1">
+          <mxGeometry height="30" width="180" x="659.75" y="4720" as="geometry" />
+        </mxCell>
+        <mxCell id="dTUtc9FoJ3XEGHcHJVtg-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=default;labelBackgroundColor=default;" value="(b) Order Execution" vertex="1">
+          <mxGeometry height="30" width="180" x="936" y="4720" as="geometry" />
+        </mxCell>
+        <mxCell id="dTUtc9FoJ3XEGHcHJVtg-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=20;fontColor=default;labelBackgroundColor=default;" value="(c) Performance Evaluation" vertex="1">
+          <mxGeometry height="30" width="225" x="1192.5" y="4720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
